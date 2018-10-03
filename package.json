@@ -1,5 +1,5 @@
 {
-  "name": "oc-framework-ts-types",
+  "name": "@types/oc-framework-ts-types",
   "version": "0.1.0",
   "description": "TypeScript declaration files for OctoberCMS framework.js",
   "scripts": {
