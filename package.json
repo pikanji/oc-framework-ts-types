@@ -1,0 +1,23 @@
+{
+  "name": "oc-framework-ts-types",
+  "version": "0.1.0",
+  "description": "TypeScript declaration files for OctoberCMS framework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pikanji/oc-framework-ts-types.git"
+  },
+  "keywords": [
+    "OctoberCMS",
+    "framework.js",
+    "TypeScript"
+  ],
+  "author": "Kanji Furuhashi",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pikanji/oc-framework-ts-types/issues"
+  }
+}
