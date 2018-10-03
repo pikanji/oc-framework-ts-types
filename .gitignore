@@ -1,0 +1,17 @@
+# OS or editor misc files
+*~
+*.bak
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# for netbeans
+nbproject
+
+# Eclipse setting files
+.buildpath
+.project
+.settings
+
+# JetBrains IDE
+.idea
