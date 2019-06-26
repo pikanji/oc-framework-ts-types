@@ -1,6 +1,6 @@
 {
   "name": "@types/oc-framework-ts-types",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "TypeScript declaration files for OctoberCMS framework.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
