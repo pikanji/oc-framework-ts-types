@@ -5,4 +5,11 @@
 
 interface JQueryStatic {
     request(handler: string, options: any): any;
+    oc: {
+        flashMsg(param: {
+            text: string,
+            class: string,
+            interval?: number,
+        }): void
+    };
 }
